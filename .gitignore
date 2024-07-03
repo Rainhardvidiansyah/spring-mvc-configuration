@@ -1,0 +1,12 @@
+/src/main/resources/application.properties
+/target/
+/docker-compose.yml
+/Dockerfile
+
+
+.idea
+*.iws
+*.iml
+*.ipr
+/.idea/
+
